@@ -20,6 +20,8 @@
     "3.135_DNA ĐV_Heo, Bò Gà, Dê, Lừa, Cừu, Ngựa_Realtime PCR",
     "3.142_Định danh cá da trơn_PCR",
     "3.144_KST_Cryptosporidium_Giardia_Realtime PCR",
+    "3.144_Shigella_Realtime PCR",
+    "3.39_V.cholerae-V.parahaemolyticus-V.vulnificus_PCR",
     "3.49_Vc_O1-O139_PCR",
     "3.50_Ecoli_O157_PCR",
     "3.51_Norovirus_RT-PCR",
@@ -41,10 +43,12 @@
     "3.65.2_IMNV_Realtime RT-PCR",
     "3.67.1_TSV_RT-PCR",
     "3.67.2_TSV_Realtime RT-PCR",
+    "3.70_TiLV_Realtime RT-qPCR",
     "3.70_Tilv_RT-PCR vòng 1",
     "3.70_Tilv_RT-PCR vòng 2",
     "3.71_DNA Động vật_Heo-Bò-Gà-Dê_PCR",
     "3.74_Edwardsiella_Gan thận mủ_PCR",
+    "3.74_Edwardsiella_Realtime PCR",
     "3.75_Aeromonas_PCR",
     "3.76_AHPND-EMS_PCR",
     "3.76_AHPND-EMS_Realtime PCR",
@@ -72,6 +76,4 @@
     "3.98_Crayfish plague_A.astaci_PCR",
     "3.99_NHP_NHPB_PCR",
     "Dị ứng_Allergen_Kit Surefood",
-    "3.144_Shigella_Realtime PCR",
-    "3.39_V.cholerae-V.parahaemolyticus-V.vulnificus_PCR"
 ]
