@@ -1,0 +1,30 @@
+[
+    {
+        "Reagent (25ul\/pu)":"PCR mix 2X",
+        " TiLV Realtime RT-qPCR mix (ul)":12.5
+    },
+    {
+        "Reagent (25ul\/pu)":"RT mix",
+        " TiLV Realtime RT-qPCR mix (ul)":0.5
+    },
+    {
+        "Reagent (25ul\/pu)":"TiLV-F",
+        " TiLV Realtime RT-qPCR mix (ul)":1.125
+    },
+    {
+        "Reagent (25ul\/pu)":"TiLV-R",
+        " TiLV Realtime RT-qPCR mix (ul)":1.125
+    },
+    {
+        "Reagent (25ul\/pu)":"TiLV-P",
+        " TiLV Realtime RT-qPCR mix (ul)":0.375
+    },
+    {
+        "Reagent (25ul\/pu)":"Water",
+        " TiLV Realtime RT-qPCR mix (ul)":1.9
+    },
+    {
+        "Reagent (25ul\/pu)":"RNA template",
+        " TiLV Realtime RT-qPCR mix (ul)":5.0
+    }
+]
